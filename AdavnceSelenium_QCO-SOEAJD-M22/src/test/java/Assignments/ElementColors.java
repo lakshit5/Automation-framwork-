@@ -15,6 +15,8 @@ public class ElementColors {
 	//DJ1 push 18Dec after dj2
 
 	//DJ2 pushing 18Dec
+	
+	DJ1 is pushing from Branch1 19DEC
 
 	public static void main(String[] args) {
 		
